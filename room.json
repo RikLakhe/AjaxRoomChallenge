@@ -1,0 +1,19 @@
+[{
+	"room":101,
+	"status":"full"
+},{
+	"room":102,
+	"status":"empty"
+},{
+	"room":103,
+	"status":"full"
+},{
+	"room":104,
+	"status":"full"
+},{
+	"room":105,
+	"status":"empty"
+},{
+	"room":106,
+	"status":"empty"
+}]

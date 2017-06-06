@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+}
+
+.container{
+	margin-top: 20px;
+	padding: 20px;
+	background-color: white;
+	font-size: 20px;
+}
+ul{
+	list-style: none;
+}
+.full{
+	color: red;
+}
+
+.empty{
+	text-decoration-style: underline;
+	color: green;
+}
